@@ -1,7 +1,10 @@
 ## Hello, hello, hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-** I'm Deisy Gysi. My research focuses on Network Science | Bioinformatics | Statistics | Biotechnology
+**I'm Deisy Gysi.**
 
-:mailbox:  deisy.ccnr@gmail.com // https://deisygysi.github.io/
+My research focuses on **Network Science, Bioinformatics, Statistics and Biotechnology**
+
+:mailbox:  deisy.ccnr@gmail.com
+https://deisygysi.github.io/
 <br>
 
 

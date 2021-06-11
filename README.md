@@ -9,7 +9,7 @@ My research focuses on **Network Science, Bioinformatics, Statistics and Biotech
 <br>
 
 
-![Linkedin](https://www.linkedin.com/in/deisy-morselli-gysi/)
+[Linkedin](https://www.linkedin.com/in/deisy-morselli-gysi/)
 
 <br>
 

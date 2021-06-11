@@ -4,11 +4,12 @@
 My research focuses on **Network Science, Bioinformatics, Statistics and Biotechnology**
 
 :mailbox:  deisy.ccnr@gmail.com
-https://deisygysi.github.io/
+<br>
+:globe_with_meridians: https://deisygysi.github.io/
 <br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-deisy-morselli-gysi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deisy-morselli-gysi/)](https://www.linkedin.com/in/deisy-morselli-gysi/)
+![Linkedin](https://www.linkedin.com/in/deisy-morselli-gysi/)
 
 <br>
 

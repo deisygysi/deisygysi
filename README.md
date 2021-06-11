@@ -1,5 +1,5 @@
 ## Hello, hello, hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-**I'm Deisy Gysi.**
+**I'm Deisy Gysi**, an Associate Research Scientist at the BarabasiLab.
 
 My research focuses on **Network Science, Bioinformatics, Statistics and Biotechnology**
 

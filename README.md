@@ -5,7 +5,7 @@
 <br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-andressamarcal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deisy-morselli-gysi/)](https://www.linkedin.com/in/deisy-morselli-gysi/)
+[![Linkedin Badge](https://img.shields.io/badge/-deisy-morselli-gysi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deisy-morselli-gysi/)](https://www.linkedin.com/in/deisy-morselli-gysi/)
 
 <br>
 

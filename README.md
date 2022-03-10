@@ -14,6 +14,6 @@ My research focuses on **Network Science, Bioinformatics, Statistics and Biotech
 <br>
 
 ![Deisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=deisygysi&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisygysi&hide=javascript,html,css,scss,Tex&theme=dracula)](https://github.com/deisygysi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisygysi&hide=html,css,scss,Tex&theme=dracula)](https://github.com/deisygysi/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deisygysi)

@@ -1,9 +1,9 @@
 ## Hello, hello, hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-**I'm Deisy Gysi**, an Associate Research Scientist at the BarabasiLab.
+**I'm Deisy Gysi**, Prof. of Statistics at Federal University of Paraná - Brazil.
 
-My research focuses on **Network Science, Bioinformatics, Statistics and Biotechnology**
+My research focuses on **Personalized Medicine, Statistics, Network Science and Bioinformatics**
 
-:mailbox:  deisy.ccnr@gmail.com
+:mailbox:  deisy [dot] gysi [at] ufpr [dot] br
 <br>
 :globe_with_meridians: https://deisygysi.github.io/
 <br>

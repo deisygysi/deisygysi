@@ -1,4 +1,4 @@
-## Hello, hello, hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello, hello, hello
 **I'm Deisy Gysi**, Prof. of Statistics at Federal University of Paraná - Brazil.
 
 My research focuses on **Personalized Medicine, Statistics, Network Science and Bioinformatics**

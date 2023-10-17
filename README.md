@@ -3,7 +3,7 @@
 
 My research focuses on **Personalized Medicine, Statistics, Network Science and Bioinformatics**
 
-I use and develop machine learning algorithms to improve people's access to precision medicine.  
+I use and develop machine learning algorithms to improve people's access to cuting edge precision medicine.  
 
 :mailbox:  deisy [dot] gysi [at] ufpr [dot] br
 <br>
